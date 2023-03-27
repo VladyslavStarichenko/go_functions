@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Wembley Stadium",
+    "address": "Wembley, London",
+    "capacity": 90000,
+    "sports": [
+      "Football"
+    ]
+  },
+  {
+    "name": "Emirates Stadium",
+    "address": "Hornsey Rd, London",
+    "capacity": 60000,
+    "sports": [
+      "Football"
+    ]
+  },
+  {
+    "name": "Etihad Stadium",
+    "address": "Ashton New Rd, Manchester",
+    "capacity": 55000,
+    "sports": [
+      "Football"
+    ]
+  }
+]
